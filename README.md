@@ -24,9 +24,9 @@
   </tr>
 </table>
 
-Write tests for the API endpoints
-Ensure to test all endpoints and see that they work using Postman.
-Integrate TravisCI for Continuous Integration in your repository (with ReadMe badge).
-Integrate test coverage reporting (e.g. Coveralls) with badge in the ReadMe.
-Obtain CI badges (e.g. from Code Climate and Coveralls) and add to ReadMe.
+Write tests for the API endpoints. <br>
+Ensure to test all endpoints and see that they work using Postman. <br>
+Integrate TravisCI for Continuous Integration in your repository (with ReadMe badge).<br>
+Integrate test coverage reporting (e.g. Coveralls) with badge in the ReadMe.<br>
+Obtain CI badges (e.g. from Code Climate and Coveralls) and add to ReadMe.<br>
 Ensure the app gets hosted on Heroku.
